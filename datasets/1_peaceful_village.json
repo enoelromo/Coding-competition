@@ -1,0 +1,45 @@
+{
+    "comment": "Petite ville avec population stable - 5 bâtiments alignés",
+    "buildings": [
+        {
+            "id": 0,
+            "x": 0,
+            "y": 0,
+            "populationPeakHours": 250,
+            "populationOffPeakHours": 250,
+            "populationNight": 250
+        },
+        {
+            "id": 1,
+            "x": 100,
+            "y": 0,
+            "populationPeakHours": 100,
+            "populationOffPeakHours": 100,
+            "populationNight": 100
+        },
+        {
+            "id": 2,
+            "x": 200,
+            "y": 0,
+            "populationPeakHours": 420,
+            "populationOffPeakHours": 420,
+            "populationNight": 420
+        },
+        {
+            "id": 3,
+            "x": 300,
+            "y": 0,
+            "populationPeakHours": 120,
+            "populationOffPeakHours": 120,
+            "populationNight": 120
+        },
+        {
+            "id": 4,
+            "x": 400,
+            "y": 0,
+            "populationPeakHours": 60,
+            "populationOffPeakHours": 60,
+            "populationNight": 60
+        }
+    ]
+}

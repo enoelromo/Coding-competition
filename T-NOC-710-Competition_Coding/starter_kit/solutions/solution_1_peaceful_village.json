@@ -1,0 +1,16 @@
+{
+    "antennas": [
+        {
+            "type": "Spot",
+            "x": 100,
+            "y": 0,
+            "buildings": [0, 1, 2]
+        },
+        {
+            "type": "Nano",
+            "x": 350,
+            "y": 0,
+            "buildings": [3, 4]
+        }
+    ]
+}
